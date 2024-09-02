@@ -1,0 +1,30 @@
+h1{
+    font-weight:800;
+    font-size:80px;
+    font-family: 'Montserrat', sans-serif;
+    
+
+}
+p{
+    font-size:35px;
+    font-weight:400
+}
+section{
+    height: 100vh;
+    color: aliceblue;
+}
+
+button{
+    background-color: #fb6f92;
+  
+    color: white;
+    transition: 1s background-color ease;
+}
+button:hover{
+    background-color: #4cc9f0;
+}
+#Quote{
+    background-image:linear-gradient(rgba(0,0,0,0.5) 0% 100%), url('../image/pexels-pixabay-302769.jpg');
+    background-position:center;
+    background-size: cover;
+}
